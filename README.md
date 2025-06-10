@@ -9,6 +9,8 @@ The project presentation can be watched at the following link:
 
 ## Project Overview
 
+![Architecture](docs/arquitectura.png)
+
 The pipeline consists of three main components/scripts:
 
 1. **Ingestion Layer**  
