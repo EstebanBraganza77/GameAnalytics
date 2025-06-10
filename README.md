@@ -9,7 +9,7 @@ The project presentation can be watched at the following link:
 
 ## Project Overview
 
-![Architecture](docs/arquitectura.png)
+![Architecture](arquitectura.png)
 
 The pipeline consists of three main components/scripts:
 
