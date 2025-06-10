@@ -27,10 +27,10 @@ Additionally, a PowerPoint presentation summarizing the project is included.
 
 ## Repository Structure
 
-- `ingestion/`  
+- `ingestion.py`  
   Code to generate and stream fake game events data.
 
-- `glue_jobs/`  
+- `glue_jobs.py`  
   PySpark Glue job script to transform Bronze data into Silver tables.
 
 - `notebooks/`  
