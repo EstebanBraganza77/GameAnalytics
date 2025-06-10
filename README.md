@@ -70,7 +70,7 @@ Additionally, a PowerPoint presentation summarizing the project is included.
 ## Contact
 
 For questions or support, please contact:  
-[Your Name] - [Your Email]
+Esteban Braganza - esteban.braganza@gmail.com
 
 ---
 
